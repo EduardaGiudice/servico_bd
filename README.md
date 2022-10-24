@@ -1,6 +1,6 @@
 # Um serviço web simples para inserção e listagem de itens em um banco de dados relacional (MariaDB/MySQL). Utiliza o framework TypeORM.
 
-# Autor: Fabrício G. M. de Carvalho, Ph. D
+# Autor: Eduarda Rosa Giudice Mota
 
 Para executar o sistema:
 
